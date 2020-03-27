@@ -1,3 +1,28 @@
+# March 26, 2020
+
+### User engagement tracking methods
+
+Broadly speaking, user engagement can be measured by a. number of users using the app, b. frequency they are using the app, c. duration of each session use of the app, d. type of activities while using the app, e. sharing app with others
+
+Key metrics can be considered:
+1. Daily app launches
+2. Daily app users
+3. Session duration
+4. Session interval
+5. Retention rate (are users coming back?)
+6. User acquisition (when someone new installs and uses a new app)
+7. Screens with longest and shortest visit duration
+8. User engagement: swipes, flicks, taps, scroll bar
+9. Likes, comments, shares
+10. Lifetime value
+
+To compare actions between the groups, **cohort analysis** is needed.
+
+**Conversion funnels** map out the entire process app users go through, from end-to-end process.
+- spot issues in the user experience and user engagement
+- zoom in which sessions did users drop from the funnel
+- 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kfquach/kfquach.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
