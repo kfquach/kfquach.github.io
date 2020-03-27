@@ -5,6 +5,38 @@
 
 ## March 26, 2020
 
+### Metrics
+
+- 675M monthly users
+- 57% men
+- 30M companies
+- Ad can reach 12% of the world's population
+- 70% of audience outside US (211M Europe, 179M Asia Pacific, 167M US)
+- 61% between 25 and 34
+- 57% reach is mobile
+- Users are 60% more likely to engage with coworker
+- Engagements have increased 50% YOY
+- People 14x more likely to share content from their employers
+
+### Platform users - MECE (mutually exclusive, collectively exhaustive) thinking 
+
+### Algorithms to prioritize relevant content
+
+- Megausers or celebrities can easily translate their popularity into virality, whereas average users had a harder time getting attention
+- Algorithm needed to be updated to show members posts from PYMK (people you may know)
+- **Top three ranking signals of algorithm**:
+  - **Personal connections**: interacted directly, interests, skills, companies, connections
+  - **Interest relevance**: affinity of Person A to Person B
+  - **Engagement probability**: likelihood to share, comment, react to post; impact of the post upon publishing
+- Ways to improve content relevance, as a user:
+  - Timing of the post
+  - Nicheness of content
+  - Encouraging engagement
+  - Hashtag promotion
+  - Being personal
+
+### Promote egagement algorithms
+
 ### User engagement tracking methods
 
 Broadly speaking, user engagement can be measured by a. number of users using the app, b. frequency they are using the app, c. duration of each session use of the app, d. type of activities while using the app, e. sharing app with others
@@ -26,42 +58,3 @@ To compare actions between the groups, **cohort analysis** is needed.
 **Conversion funnels** map out the entire process app users go through, from end-to-end process.
 - spot issues in the user experience and user engagement
 - zoom in which sessions did users drop from the funnel
-- 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kfquach/kfquach.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kfquach/kfquach.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
