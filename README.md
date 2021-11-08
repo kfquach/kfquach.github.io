@@ -1,4 +1,4 @@
-# Kevin's Muses
+# Kevin's Musings
 
 ## November 7, 2021
 
